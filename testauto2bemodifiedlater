@@ -224,6 +224,5 @@ public class BlueCloseAuto extends LinearOpMode {
             move(dir: "fwd", len: 450);
         }
 	}
-    //testblue2
 }
 
